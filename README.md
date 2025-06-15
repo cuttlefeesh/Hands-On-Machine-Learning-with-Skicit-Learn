@@ -1,1 +1,1 @@
-# Hands-On-Machine-Learning-wit-Skicit-Learn
+# Hands-On-Machine-Learning-with-Skicit-Learn
